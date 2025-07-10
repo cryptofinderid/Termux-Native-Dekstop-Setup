@@ -78,10 +78,6 @@ Setelah proses instalasi selesai, Anda dapat langsung menjalankan XFCE4 Desktop 
 ./run.sh
 ```
 
-> 💡 Pastikan **Termux X11** sudah dijalankan sebelum Anda mengeksekusi `./run.sh`, agar tampilan desktop muncul dengan benar.
-
----
-
 ### 🙏 Terima Kasih
 
 ---
